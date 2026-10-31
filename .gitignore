@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Rider
+.idea/
+*sln.DotSettings.user
+
+# VS Code If ever opened
+.vscode/
